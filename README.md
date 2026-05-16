@@ -12,7 +12,7 @@
 
 ```yaml
 Name     : Aditya Shrivastav
-location : Maharashtra, India 🇮🇳
+location : Pune,Maharashtra, India 🇮🇳
 degree   : B.Tech — Computer Science Engineering
 focus    :
   - Cloud Infrastructure & AWS
