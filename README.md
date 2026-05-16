@@ -67,8 +67,7 @@ building :
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-addy1002-181717?style=for-the-badge&logo=github)](https://github.com/addy1002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-shrivastav-798589286)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-shrivastav-798589286)
 </div>
 
 <br/>
