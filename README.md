@@ -13,7 +13,8 @@
 ```yaml
 Name     : Aditya Shrivastav
 location : Pune,Maharashtra, India 🇮🇳
-degree   : B.Tech — Computer Science Engineering
+degree   : Diploma - Computer Science
+           B.Tech — Information Technology
 focus    :
   - Cloud Infrastructure & AWS
   - Container Orchestration (Kubernetes / EKS)
