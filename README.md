@@ -62,20 +62,7 @@ building :
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=addy1002&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy1002&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=addy1002&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-</div>
-
----
 
 ## 🤝 Connect
 
